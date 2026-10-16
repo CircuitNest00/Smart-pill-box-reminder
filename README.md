@@ -38,8 +38,6 @@ Each IR sensor monitors one medicine compartment. The ESP32 checks whether medic
 
 The Arduino IDE source code is included in this repository: [`pill.ino`](pill.ino).
 
-> Replace `pill_box.ino` with the exact filename of your uploaded code file if it has a different name.
-
 ## Project Photo
 
 ![Smart Pill Box Project](IMG_0806.jpg)
@@ -67,7 +65,3 @@ The Arduino IDE source code is included in this repository: [`pill.ino`](pill.in
 ## Team and Contributions
 
 - Meenakshi Sundaram — designed and built the project independently.
-
-## References
-
-- No references listed.
