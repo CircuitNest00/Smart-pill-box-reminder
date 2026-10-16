@@ -36,7 +36,7 @@ Each IR sensor monitors one medicine compartment. The ESP32 checks whether medic
 
 ## Source Code
 
-The Arduino IDE source code is included in this repository: [`pill_box.ino`](pill_box.ino).
+The Arduino IDE source code is included in this repository: [`pill.ino`](pill.ino).
 
 > Replace `pill_box.ino` with the exact filename of your uploaded code file if it has a different name.
 
