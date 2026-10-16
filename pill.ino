@@ -2,7 +2,7 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-const char* ssid = "Airtel_elan_4389";
+const char* ssid = "Air_an_4069";
 const char* password = "air82733";
 
 #define BOTtoken "86277301:AAFnmPci4EBTWxW0vPHjSYu_kJMHc_o"
