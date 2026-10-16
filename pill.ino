@@ -5,8 +5,8 @@
 const char* ssid = "Airtel_elan_4389";
 const char* password = "air82733";
 
-#define BOTtoken "8627730651:AAFnmPci4EBTWxW0vPHjSYu_kJRabMHc_to"
-#define CHAT_ID "6591814274"
+#define BOTtoken "86277301:AAFnmPci4EBTWxW0vPHjSYu_kJMHc_o"
+#define CHAT_ID "6591814904"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
