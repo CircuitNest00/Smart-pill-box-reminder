@@ -42,7 +42,7 @@ The Arduino IDE source code is included in this repository: [`pill_box.ino`](pil
 
 ## Project Photo
 
-![Smart Pill Box Project](IMG_0806.HEIC)
+![Smart Pill Box Project](IMG_0806.jpg)
 
 ## How It Works
 
