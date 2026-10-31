@@ -30,7 +30,7 @@ Each IR sensor monitors one medicine compartment. The ESP32 checks whether medic
 
 ## Circuit Diagram
 
-![Smart_pill_box_circuit_diagram](circuitdiagram.png)
+![Smart_pill_box_circuit_diagram](circuit diagram.png)
 
 ## Software and Tools
 
