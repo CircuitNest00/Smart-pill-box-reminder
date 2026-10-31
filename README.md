@@ -28,6 +28,10 @@ Each IR sensor monitors one medicine compartment. The ESP32 checks whether medic
 | Buzzer | 1 | Sounds the medicine reminder |
 | 16×2 LCD | 1 | Displays reminders and medicine status |
 
+## Circuit Diagram
+
+![Smart_pill_box_circuit_diagram](circuit_diagram.png)
+
 ## Software and Tools
 
 - Programming language: Arduino C/C++
